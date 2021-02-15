@@ -20,6 +20,8 @@
 
 [morgiovanelli](https://www.twitch.tv/morgiovanelli)
 
+[bug_elseif](https://www.twitch.tv/bug_elseif)
+
 
 ## Desativas 
 
