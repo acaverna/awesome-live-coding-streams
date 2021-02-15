@@ -5,6 +5,6 @@
 
 ## Listas
 
-- [Por linguagem-categoria]()
-- [Live Coder Girls]()
+- [Por linguagem-categoria](/livecodersbr.md)
+- [Live Coder Girls](/mulheres.md)
 
