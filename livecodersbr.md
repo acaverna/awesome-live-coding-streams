@@ -109,6 +109,8 @@
 
 ## Python
 
+[bug_elseif](https://www.twitch.tv/bug_elseif)
+
 [dunossauro](https://www.twitch.tv/dunossauro)
 
 [nomadcodemist -desativa](https://www.twitch.tv/nomadcodemist)
