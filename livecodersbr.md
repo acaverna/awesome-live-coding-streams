@@ -51,7 +51,10 @@
 
 
 ## Java
+
 [mariorez](https://www.twitch.tv/mariorez)
+
+[purplepizza92](https://www.twitch.tv/purplepizza92)
 
 
 ## JavaScript, TypeScript (Back-End)
