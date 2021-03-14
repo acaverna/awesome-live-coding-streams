@@ -47,6 +47,7 @@
 
 ## GOLANG
 
+[moniquelive](https://www.twitch.tv/moniquelive)
 [profbrunolopes](https://www.twitch.tv/profbrunolopes)
 
 
@@ -57,6 +58,8 @@
 ## JavaScript, TypeScript (Back-End)
 
 [codigofalado](https://www.twitch.tv/codigofalado)
+
+[dwtoledo](https://www.twitch.tv/dwtoledo)
 
 [glaucia_lemos86](https://www.twitch.tv/glaucia_lemos86)
 
@@ -99,6 +102,8 @@
 
 
 ## PHP
+
+[eduardoklosowski](https://www.twitch.tv/eduardoklosowski)
 
 [chicaocodes](https://www.twitch.tv/chicaocodes)
 
