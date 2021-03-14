@@ -8,7 +8,6 @@
 
 [pokemaobr](https://www.twitch.tv/pokemaobr)
 
-
 # Data Science
 
 [caaddss - desativa](https://www.twitch.tv/caaddss)
@@ -23,7 +22,6 @@
 [kaduzius](https://www.twitch.tv/kaduzius)
 
 [tearing5 - desativo ](https://www.twitch.tv/tearing5)
-
 
 # Infrastructure
 
@@ -48,12 +46,12 @@
 ## GOLANG
 
 [moniquelive](https://www.twitch.tv/moniquelive)
+
 [profbrunolopes](https://www.twitch.tv/profbrunolopes)
 
-
 ## Java
-[mariorez](https://www.twitch.tv/mariorez)
 
+[mariorez](https://www.twitch.tv/mariorez)
 
 ## JavaScript, TypeScript (Back-End)
 
@@ -66,7 +64,6 @@
 [jpbrab0](https://www.twitch.tv/jpbrab0)
 
 [marcobrunodev](https://www.twitch.tv/marcobrunodev)
-
 
 ## JavaScript, TypeScript, HTML & CSS (Front-End)
 
@@ -89,7 +86,6 @@
 [pixlrose](https://www.twitch.tv/pixlrose)
 
 [xtecna](https://www.twitch.tv/xtecna)
-
 
 ## Kotlin (Backend)
 
@@ -124,20 +120,13 @@
 
 [vitthin](https://www.twitch.tv/vitthin)
 
-
-## Ruby
-
-
 ## Rust
 
 [davibusanello](https://www.twitch.tv/davibusanello)
-
 
 # Others
 
 ## Bioinformatics
 
 [itsevolution](https://www.twitch.tv/itsevolution)
-
-
 
