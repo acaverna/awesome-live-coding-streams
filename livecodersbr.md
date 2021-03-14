@@ -103,9 +103,9 @@
 
 ## PHP
 
-[eduardoklosowski](https://www.twitch.tv/eduardoklosowski)
-
 [chicaocodes](https://www.twitch.tv/chicaocodes)
+
+[eduardoklosowski](https://www.twitch.tv/eduardoklosowski)
 
 [erikaheidi](https://www.twitch.tv/erikaheidi)
 
