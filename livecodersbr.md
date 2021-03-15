@@ -94,6 +94,7 @@
 ## Kotlin (Backend)
 
 [morgiovanelli](https://www.twitch.tv/morgiovanelli)
+[casadodev](https://www.twitch.tv/casadodev)
 
 
 ## Lua
