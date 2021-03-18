@@ -7,7 +7,6 @@
 
 [punkdodevops](https://www.twitch.tv/punkdodevops)
 
-
 [glaucia_lemos86](https://www.twitch.tv/glaucia_lemos86)
 
 [little_yuuh](https://www.twitch.tv/little_yuuh)
@@ -21,6 +20,8 @@
 [morgiovanelli](https://www.twitch.tv/morgiovanelli)
 
 [bug_elseif](https://www.twitch.tv/bug_elseif)
+
+[purplepizza92](https://www.twitch.tv/purplepizza92)
 
 
 ## Desativas 
