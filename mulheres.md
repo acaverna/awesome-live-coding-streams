@@ -10,6 +10,8 @@
 
 [little_yuuh](https://www.twitch.tv/little_yuuh)
 
+[glaucia_lemos86](https://www.twitch.tv/glaucia_lemos86)
+
 [moniquelive](https://www.twitch.tv/moniquelive)
 
 [morgiovanelli](https://www.twitch.tv/morgiovanelli)
@@ -28,6 +30,7 @@
 [altthabs](https://www.twitch.tv/altthabs)
 
 [bellesamways](https://www.twitch.tv/bellesamways)
+
 
 [biaherculano](https://www.twitch.tv/biaherculano)
 
@@ -50,6 +53,8 @@
 [nomadcodemist](https://www.twitch.tv/nomadcodemist)
 
 [nonykko](https://www.twitch.tv/nonykko)
+
+[purplepizza92](https://www.twitch.tv/purplepizza92)
 
 [shebangbash](https://www.twitch.tv/shebangbash)
 
