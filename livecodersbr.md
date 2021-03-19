@@ -41,6 +41,8 @@
 
 [altthabs](https://www.twitch.tv/altthabs)
 
+[edinei.dev](https://www.twitch.tv/edineidev)
+
 [ionixjunior](https://www.twitch.tv/ionixjunior)
 
 
@@ -63,6 +65,8 @@
 [codigofalado](https://www.twitch.tv/codigofalado)
 
 [dwtoledo](https://www.twitch.tv/dwtoledo)
+
+[edinei.dev](https://www.twitch.tv/edineidev)
 
 [glaucia_lemos86](https://www.twitch.tv/glaucia_lemos86)
 
@@ -120,6 +124,8 @@
 [bug_elseif](https://www.twitch.tv/bug_elseif)
 
 [dunossauro](https://www.twitch.tv/dunossauro)
+
+[edinei.dev](https://www.twitch.tv/edineidev)
 
 [nomadcodemist -desativa](https://www.twitch.tv/nomadcodemist)
 
