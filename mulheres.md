@@ -14,7 +14,7 @@
 
 [moniquelive](https://www.twitch.tv/moniquelive)
 
-[morgiovanelli](https://www.twitch.tv/morgiovanelli)
+[morgannadev](https://www.twitch.tv/morgannadev)
 
 [pachicodes](https://www.twitch.tv/pachicodes)
 
@@ -30,7 +30,6 @@
 [altthabs](https://www.twitch.tv/altthabs)
 
 [bellesamways](https://www.twitch.tv/bellesamways)
-
 
 [biaherculano](https://www.twitch.tv/biaherculano)
 
