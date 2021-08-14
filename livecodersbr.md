@@ -8,6 +8,7 @@
 
 [pokemaobr](https://www.twitch.tv/pokemaobr)
 
+
 # Data Science
 
 [caaddss - desativa](https://www.twitch.tv/caaddss)
@@ -23,6 +24,7 @@
 
 [tearing5 - desativo ](https://www.twitch.tv/tearing5)
 
+
 # Infrastructure
 
 ## Devops
@@ -36,12 +38,9 @@
 
 ## .NET / C# / Xamarin
 
-
 [altthabs](https://www.twitch.tv/altthabs)
 
 [ionixjunior](https://www.twitch.tv/ionixjunior)
-
-
 
 ## GOLANG
 
@@ -91,13 +90,11 @@
 
 ## Kotlin (Backend)
 
-[morgiovanelli](https://www.twitch.tv/morgiovanelli)
-
+[morgannadev](https://www.twitch.tv/morgannadev)
 
 ## Lua
 
 [marcobrunodev](https://www.twitch.tv/marcobrunodev/)
-
 
 ## PHP
 
@@ -108,7 +105,6 @@
 [erikaheidi](https://www.twitch.tv/erikaheidi)
 
 [pokemaobr](https://www.twitch.tv/pokemaobr)
-
 
 ## Python
 
@@ -126,9 +122,9 @@
 
 [davibusanello](https://www.twitch.tv/davibusanello)
 
+
 # Others
 
 ## Bioinformatics
 
 [itsevolution](https://www.twitch.tv/itsevolution)
-
